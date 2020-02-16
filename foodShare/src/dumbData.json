@@ -1,0 +1,52 @@
+[
+  {
+    "restuarantName": "Koss LLC",
+    "restuarantLocation": { "latitude": "2.5757", "longitude": "127.3304" },
+    "foodItemsForSale": ["tomatos", "potatos", "carrots", "ice cream"]
+  },
+  {
+    "restuarantName": "Schaefer, Ebert and Langworth",
+    "restuarantLocation": { "latitude": "-59.4106", "longitude": "19.9376" },
+    "foodItemsForSale": ["bananas"]
+  },
+  {
+    "restuarantName": "Lemke, Johns and Okuneva",
+    "restuarantLocation": { "latitude": "57.4845", "longitude": "122.1640" },
+    "foodItemsForSale": ["kale", "rassberries"]
+  },
+  {
+    "restuarantName": "Stehr - Willms",
+    "restuarantLocation": { "latitude": "-41.0142", "longitude": "47.4532" },
+    "foodItemsForSale": ["red peppers"]
+  },
+  {
+    "restuarantName": "Funk, Cormier and Lindgren",
+    "restuarantLocation": { "latitude": "0.1471", "longitude": "16.9766" },
+    "foodItemsForSale": ["japanese eggplant"]
+  },
+  {
+    "restuarantName": "Corwin, Jacobs and Langworth",
+    "restuarantLocation": { "latitude": "-35.4482", "longitude": "-124.5929" },
+    "foodItemsForSale": ["apples", "blueberreis"]
+  },
+  {
+    "restuarantName": "Rogahn, Parisian and Botsford",
+    "restuarantLocation": { "latitude": "6.4615", "longitude": "-122.6152" },
+    "foodItemsForSale": ["french bread"]
+  },
+  {
+    "restuarantName": "Schaefer - Harber",
+    "restuarantLocation": { "latitude": "68.4096", "longitude": "24.2317" },
+    "foodItemsForSale": ["oranges"]
+  },
+  {
+    "restuarantName": "Sanford, Ziemann and Jacobs",
+    "restuarantLocation": { "latitude": "6.4995", "longitude": "-10.7643" },
+    "foodItemsForSale": ["green grapes"]
+  },
+  {
+    "restuarantName": "Stanton, Erdman and Hane",
+    "restuarantLocation": { "latitude": "52.2200", "longitude": "-6.7936" },
+    "foodItemsForSale": ["persimmon"]
+  }
+]
